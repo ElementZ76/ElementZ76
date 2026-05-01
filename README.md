@@ -6,6 +6,15 @@
 
 ---
 
+## 🔭 Currently Working On
+
+- 🚗 Enhancing **FuelTrack AI** with analytics & forecasting features  
+- ⚙️ Building scalable **test automation frameworks** using Selenium + TestNG  
+- 📊 Practicing **API Testing** with Postman & REST APIs  
+- 🎨 Improving UI/UX design skills through real-world projects  
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
